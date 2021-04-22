@@ -1,31 +1,38 @@
-{ "store": {
+{ 
+  "store": {
     "item": [
-      { "id": 1,
+      { 
+        "id": 1,
         "category": "clothing",
         "title": "Aloha Shirt",
         "price": 700
       },
-      { "id": 2,
+      { 
+        "id": 2,
         "category": "clothing",
         "title": "Pearl Tee",
         "price": 400
       },
-      { "id": 3,
+      { 
+        "id": 3,
         "category": "headgear",
         "title": "Fugu Bell Hat",
         "price": 1700
       },
-      { "id": 4,
+      { 
+        "id": 4,
         "category": "headgear",
         "title": "Splash Goggles",
         "price": 2800
       },
-      { "id": 5,
+      { 
+        "id": 5,
         "category": "shoes",
         "title": "Cherry Kicks",
         "price": 2400
       },
-      { "id": 6,
+      { 
+        "id": 6,
         "category": "shoes",
         "title": "Red Hi-Tops",
         "price": 1800
