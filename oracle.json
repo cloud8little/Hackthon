@@ -1,42 +1,33 @@
 { 
   "store": {
-    "item": [
-      { 
-        "id": 1,
-        "category": "clothing",
-        "title": "Aloha Shirt",
-        "price": 700
+    "book": [ 
+      { "category": "reference",
+        "author": "Nigel Rees",
+        "title": "Sayings of the Century",
+        "price": 8.95
       },
-      { 
-        "id": 2,
-        "category": "clothing",
-        "title": "Pearl Tee",
-        "price": 400
+      { "category": "fiction",
+        "author": "Evelyn Waugh",
+        "title": "Sword of Honour",
+        "price": 12.99
       },
-      { 
-        "id": 3,
-        "category": "headgear",
-        "title": "Fugu Bell Hat",
-        "price": 1700
+      { "category": "fiction",
+        "author": "Herman Melville",
+        "title": "Moby Dick",
+        "isbn": "0-553-21311-3",
+        "price": 8.99
       },
-      { 
-        "id": 4,
-        "category": "headgear",
-        "title": "Splash Goggles",
-        "price": 2800
-      },
-      { 
-        "id": 5,
-        "category": "shoes",
-        "title": "Cherry Kicks",
-        "price": 2400
-      },
-      { 
-        "id": 6,
-        "category": "shoes",
-        "title": "Red Hi-Tops",
-        "price": 1800
+      { "category": "fiction",
+        "author": "J. R. R. Tolkien",
+        "title": "The Lord of the Rings",
+        "isbn": "0-395-19395-8",
+        "price": 22.99
       }
-    ]
-  }
+    ],
+    "bicycle": {
+      "color": "red",
+      "price": 19.95
+    }
+  },
+  "expensive": 10
 }
